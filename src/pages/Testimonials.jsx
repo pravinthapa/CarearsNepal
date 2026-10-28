@@ -10,8 +10,8 @@ const ALL_TESTIMONIALS = [
     role: "AI Growth Marketer Graduate",
     background: "Ex-Digital Marketing Executive",
     avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
-    quote: "Before Carears.ai, my Digital Marketing knowledge was basically just hitting 'Boost' and figuring things out by trial and error. What's changed is how I look at marketing now—into Product-Led Growth, SEO, AEO, GEO, the AARRR framework, and Meta Ads analysis.",
-    fullQuote: "Before Carears.ai, my Digital Marketing knowledge was basically just hitting 'Boost' and figuring things out by trial and error. I could run ads but had no real confidence reading the numbers or thinking about marketing from a growth angle. What's changed is how I look at marketing now, beyond clicks and likes, into content marketing, Product-Led Growth, SEO, AEO, GEO, the AARRR framework, and Meta Ads analysis. Working on real projects with Carears.ai and Remote Job Nepal made these concepts click instead of staying theoretical.",
+    quote: "Before The AI Institute, my Digital Marketing knowledge was basically just hitting 'Boost' and figuring things out by trial and error. What's changed is how I look at marketing now—into Product-Led Growth, SEO, AEO, GEO, the AARRR framework, and Meta Ads analysis.",
+    fullQuote: "Before The AI Institute, my Digital Marketing knowledge was basically just hitting 'Boost' and figuring things out by trial and error. I could run ads but had no real confidence reading the numbers or thinking about marketing from a growth angle. What's changed is how I look at marketing now, beyond clicks and likes, into content marketing, Product-Led Growth, SEO, AEO, GEO, the AARRR framework, and Meta Ads analysis. Working on real projects with The AI Institute and Remote Job Nepal made these concepts click instead of staying theoretical.",
     highlights: {
       beforeAfter: "Transitioned from basic Facebook boosting to full data-driven growth marketing.",
       skills: "Product-Led Growth, Meta Ads analysis, AARRR framework, AI copy generation."
@@ -52,8 +52,8 @@ const ALL_TESTIMONIALS = [
     role: "AI Software Developer Graduate",
     background: "CS Student @ Tribhuvan University",
     avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&auto=format&fit=crop&q=80",
-    quote: "Carears.ai taught me how to develop full-stack SaaS apps using Next.js 15, Cursor IDE, and Claude 3.5 Sonnet. I deployed 3 full production apps in 12 weeks!",
-    fullQuote: "At college we were taught theoretical C++ and outdated database scripts. Carears.ai completely reframed how modern engineering works in 2026. Learning how to prompt Cursor IDE, build custom RAG pipelines with Supabase pgvector, and deploy live on Vercel allowed me to land a paid remote software internship before graduation!",
+    quote: "The AI Institute taught me how to develop full-stack SaaS apps using Next.js 15, Cursor IDE, and Claude 3.5 Sonnet. I deployed 3 full production apps in 12 weeks!",
+    fullQuote: "At college we were taught theoretical C++ and outdated database scripts. The AI Institute completely reframed how modern engineering works in 2026. Learning how to prompt Cursor IDE, build custom RAG pipelines with Supabase pgvector, and deploy live on Vercel allowed me to land a paid remote software internship before graduation!",
     highlights: {
       beforeAfter: "Secured paid remote software developer internship in Berlin.",
       skills: "Next.js 15, Supabase pgvector, Cursor IDE, Claude 3.5, Vercel."
@@ -67,7 +67,7 @@ const ALL_TESTIMONIALS = [
     background: "Freelance Operations Specialist",
     avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80",
     quote: "I went from manually copy-pasting client data into spreadsheets to building autonomous N8N & Make workflows that save client teams 20+ hours every week.",
-    fullQuote: "The AI Agents course was a game-changer. Learning Make.com, OpenAI Assistants API, and N8N workflow logic allowed me to offer high-ticket automation services to international agency clients. The mentors at Carears.ai reviewed my live client automations step-by-step.",
+    fullQuote: "The AI Agents course was a game-changer. Learning Make.com, OpenAI Assistants API, and N8N workflow logic allowed me to offer high-ticket automation services to international agency clients. The mentors at The AI Institute reviewed my live client automations step-by-step.",
     highlights: {
       beforeAfter: "Built high-ticket agency automation services for US clients.",
       skills: "Make.com, N8N, OpenAI Assistants API, Webhooks, CrewAI."
@@ -97,7 +97,7 @@ export default function Testimonials() {
           Real People. Real Skills. Real Deploys.
         </h1>
         <p className="text-base sm:text-lg text-zinc-600 max-w-2xl mx-auto leading-relaxed">
-          Read how students from non-tech and technical backgrounds transformed their careers through Carears.ai's AI-native cohort programs.
+          Read how students from non-tech and technical backgrounds transformed their careers through The AI Institute's AI-native cohort programs.
         </p>
       </div>
 

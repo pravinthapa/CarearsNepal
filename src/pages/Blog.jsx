@@ -69,7 +69,7 @@ export default function Blog() {
       {/* HEADER */}
       <div className="text-center space-y-4 max-w-3xl mx-auto">
         <span className="inline-block py-1.5 px-4 text-xs font-semibold rounded-full text-[#e11d48] border border-[#e11d48]/20 bg-[#e11d48]/10 tracking-wide uppercase">
-          Carears.ai Field Notes
+          The AI Institute Field Notes
         </span>
         <h1 className="text-4xl sm:text-5xl font-extrabold font-headline text-[#09090b] tracking-tight leading-tight">
           Real Talk on AI, Tech & Global Hiring

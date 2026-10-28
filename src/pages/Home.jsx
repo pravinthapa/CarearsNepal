@@ -10,7 +10,7 @@ const TESTIMONIALS_DATA = [
     name: "Saujan Shrestha",
     role: "AI growth marketer",
     avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
-    quote: "Before Carears.ai, my Digital Marketing knowledge was basically just hitting \"Boost\" and figuring things out by trial and error. I could run ads but had no real confidence reading the numbers or thinking about marketing from a growth angle. What's changed is how I look at marketing now, beyond clicks and likes, into content marketing, Product-Led Growth, SEO, AEO, GEO, the AARRR framework, and Meta Ads analysis. Working on real projects with Carears.ai and Remote Job Nepal made these concepts click instead of staying theoretical. I'd recommend it to anyone who wants to actually practice growth marketing, not just watch lessons. For me the biggest shift has been learning to analyze, test, mess up, and improve based on real results.",
+    quote: "Before The AI Institute, my Digital Marketing knowledge was basically just hitting \"Boost\" and figuring things out by trial and error. I could run ads but had no real confidence reading the numbers or thinking about marketing from a growth angle. What's changed is how I look at marketing now, beyond clicks and likes, into content marketing, Product-Led Growth, SEO, AEO, GEO, the AARRR framework, and Meta Ads analysis. Working on real projects with The AI Institute and Remote Job Nepal made these concepts click instead of staying theoretical. I'd recommend it to anyone who wants to actually practice growth marketing, not just watch lessons. For me the biggest shift has been learning to analyze, test, mess up, and improve based on real results.",
     highlights: {
       beforeAfter: "Transitioned from basic Facebook boosting to full data-driven growth marketing.",
       skills: "Product-Led Growth, Meta Ads analysis, AARRR framework, AI copy generation."
@@ -42,32 +42,32 @@ const TESTIMONIALS_DATA = [
 
 const HOMEPAGE_FAQS = [
   {
-    question: "What is Carears.ai?",
-    answer: "Carears.ai is a professional training institute specializing in cohort-based education and AI-native skill preparation. The institute provides structured educational paths and skill-building frameworks to help students navigate modern career options."
+    question: "What is The AI Institute?",
+    answer: "The AI Institute is a professional training institute specializing in cohort-based education and AI-native skill preparation. The institute provides structured educational paths and skill-building frameworks to help students navigate modern career options."
   },
   {
-    question: "Is Carears.ai part of Remote Job Nepal?",
-    answer: "Yes, Carears.ai is built and managed by Remote Job Nepal. Through this direct partnership, enrolled students gain exclusive access to Remote Job Nepal's established talent network and dedicated job placement pipelines designed to support hiring opportunities immediately upon graduation."
+    question: "Is The AI Institute part of Remote Job Nepal?",
+    answer: "Yes, The AI Institute is built and managed by Remote Job Nepal. Through this direct partnership, enrolled students gain exclusive access to Remote Job Nepal's established talent network and dedicated job placement pipelines designed to support hiring opportunities immediately upon graduation."
   },
   {
-    question: "What programs does Carears.ai offer?",
-    answer: "Carears.ai offers specialized, cohort-based training courses focusing on modern professional skills and AI-first workflows. Our main educational tracks include AI Agentic Automation (8-week schedule), AI-First Growth Marketing (12-week schedule), and Software Development with AI (12-week schedule)."
+    question: "What programs does The AI Institute offer?",
+    answer: "The AI Institute offers specialized, cohort-based training courses focusing on modern professional skills and AI-first workflows. Our main educational tracks include AI Agentic Automation (8-week schedule), AI-First Growth Marketing (12-week schedule), and Software Development with AI (12-week schedule)."
   },
   {
-    question: "Is Carears.ai legit? Has anyone been hired?",
-    answer: "Yes, Carears.ai is a verified career training institute with proven student outcomes, including multiple students from the first cohort successfully securing internship placements before course completion. The institution validates its educational pathways by leveraging its parent network to connect students with hiring panels early in their training cycles."
+    question: "Is The AI Institute legit? Has anyone been hired?",
+    answer: "Yes, The AI Institute is a verified career training institute with proven student outcomes, including multiple students from the first cohort successfully securing internship placements before course completion. The institution validates its educational pathways by leveraging its parent network to connect students with hiring panels early in their training cycles."
   },
   {
-    question: "Who teaches at Carears.ai?",
-    answer: "Classes at Carears.ai are taught by working industry professionals and technical specialists who are actively employed at international companies. These global practitioners teach students directly, sharing real-world insights, operational workflows, and applied case studies from the global tech industry."
+    question: "Who teaches at The AI Institute?",
+    answer: "Classes at The AI Institute are taught by working industry professionals and technical specialists who are actively employed at international companies. These global practitioners teach students directly, sharing real-world insights, operational workflows, and applied case studies from the global tech industry."
   },
   {
     question: "Where are classes held?",
-    answer: "Carears.ai courses are delivered through physical classes in Kathmandu as the priority, alongside a hybrid learning option for students outside the valley. This format combines interactive, local classroom instruction with accessible digital infrastructure for broader student participation."
+    answer: "The AI Institute courses are delivered through physical classes in Kathmandu as the priority, alongside a hybrid learning option for students outside the valley. This format combines interactive, local classroom instruction with accessible digital infrastructure for broader student participation."
   },
   {
-    question: "How much does Carears.ai cost?",
-    answer: "Tuition fees at Carears.ai depend directly on the specific technical track you select: standard enrollment is NPR 35,000 for both the Software Development with AI and AI-First Growth Marketing courses, while the AI Agentic Automation track is priced at NPR 25,000. To review current session availability, payment milestones, or early-bird promotions for upcoming cohorts, please check the respective pricing modules hosted on our main course landing pages."
+    question: "How much does The AI Institute cost?",
+    answer: "Tuition fees at The AI Institute depend directly on the specific technical track you select: standard enrollment is NPR 35,000 for both the Software Development with AI and AI-First Growth Marketing courses, while the AI Agentic Automation track is priced at NPR 25,000. To review current session availability, payment milestones, or early-bird promotions for upcoming cohorts, please check the respective pricing modules hosted on our main course landing pages."
   }
 ];
 

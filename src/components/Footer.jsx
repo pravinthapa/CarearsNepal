@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="left footer-brand">
           <Link className="footer-brand-link" to="/">
             <span className="site-nav-logo-text" style={{ fontSize: '20px' }}>
-              Carears<span className="dot">.ai</span>
+              The <span className="dot">AI</span> Institute
             </span>
           </Link>
           <span className="footer-byline">

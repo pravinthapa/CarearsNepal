@@ -9,9 +9,9 @@ export default function Navbar({ onOpenInquiry }) {
       <div className="site-nav-inner">
         
         {/* Brand Logo */}
-        <Link to="/" className="site-nav-brand" aria-label="Carears home">
+        <Link to="/" className="site-nav-brand" aria-label="The AI Institute home">
           <span className="site-nav-logo-text">
-            Carears<span className="dot">.ai</span>
+            The <span className="dot">AI</span> Institute
           </span>
         </Link>
 

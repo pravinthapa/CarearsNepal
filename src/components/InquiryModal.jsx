@@ -126,7 +126,7 @@ export default function InquiryModal({ isOpen, onClose, selectedCourseName = "AI
             </div>
             <h3 className="text-2xl font-bold text-white font-headline">Inquiry Received!</h3>
             <p className="text-sm text-zinc-400 max-w-xs mx-auto">
-              Thank you, <span className="text-white font-semibold">{formData.name}</span>. An admissions mentor from Carears.ai will reach out to you shortly via WhatsApp or call.
+              Thank you, <span className="text-white font-semibold">{formData.name}</span>. An admissions mentor from The AI Institute will reach out to you shortly via WhatsApp or call.
             </p>
             <button
               onClick={() => {

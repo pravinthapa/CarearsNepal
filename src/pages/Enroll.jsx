@@ -368,7 +368,7 @@ export default function Enroll() {
           </div>
 
           <p className="text-xs text-zinc-400 max-w-sm mx-auto">
-            An admissions coordinator from Remote Job Nepal / Carears.ai will send your class portal credentials and payment voucher to <strong className="text-zinc-200">{formData.email}</strong> shortly.
+            An admissions coordinator from Remote Job Nepal / The AI Institute will send your class portal credentials and payment voucher to <strong className="text-zinc-200">{formData.email}</strong> shortly.
           </p>
 
           <div className="pt-4">
